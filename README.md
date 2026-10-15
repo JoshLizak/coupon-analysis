@@ -7,4 +7,4 @@ Diving into the accepted coupons only, it appears that the largest demographic o
 
 The accepting demographic is also primarily single or married people which also ties into the age ranges previously discovered. 
 
-### The enivitable conclusion is that those who are willing to accept a coupon are typically those with more free time on their hands which are most likely retired adults or college age students. And the primary coupon types they like are Coffee Houses and Cheap Food.
+### The inevitable conclusion is that those who are willing to accept a coupon are typically those with more free time on their hands which are most likely retired adults or college age students. And the primary coupon types they like are Coffee Houses and Cheap Food.
